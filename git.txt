@@ -3,3 +3,6 @@ git安装:yum install git
 创建仓库: mkdir learngit
 	  cd learngit
 	  git init
+添加文件到仓库: git add <file>
+		git commit
+
