@@ -5,4 +5,5 @@ git安装:yum install git
 	  git init
 添加文件到仓库: git add <file>
 		git commit
-
+查看状态:git status
+查看不同:git diff
