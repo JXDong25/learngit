@@ -7,3 +7,7 @@ git安装:yum install git
 		git commit
 查看状态:git status
 查看不同:git diff
+查看日志:git log	
+					git log --pretty=oneline
+回退版本:git reset --hard HEAD^
+查看commitID:git reflog
